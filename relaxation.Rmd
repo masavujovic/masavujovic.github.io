@@ -1,0 +1,97 @@
+---
+title: ""
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+This is a photo gallery of some beautiful places in countries that I am fortunate enough to be able to call home. Most are from Montenegro, but there are some from Scotland, England, and the US. All of these were taken by me. If you feel like your urban jungle is getting to you, this gallery might help.
+
+<center>
+###### &copy; 2018 Maša Vujović. All rights reserved.
+</center>
+
+<html>
+
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="images/kraljicina.JPG">
+    <img src="images/kraljicina.JPG" alt="Kraljicina Beach" width="300" height="200">
+  </a>
+  <div class="desc">Kraljičina Beach, MNE
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/bar.JPG">
+    <img src="images/bar.jpg" alt="bar" width="300" height="200">
+  </a>
+  <div class="desc">Bar, MNE
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/lighthouse.jpg">
+    <img src="images/lighthouse.jpg" alt="Lighthouse" width="300" height="200">
+  </a>
+  <div class="desc">Bar, MNE
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/skadarsko.JPG">
+    <img src="images/skadarsko.jpg" alt="Lake of Scadar" width="300" height="200">
+  </a>
+  <div class="desc">Skadar Lake, MNE
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/piva.JPG">
+    <img src="images/piva.jpg" alt="Piva" width="300" height="200">
+  </a>
+  <div class="desc">Piva River, MNE
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/durmitor.JPG">
+    <img src="images/durmitor.jpg" alt="Durmitor" width="300" height="200">
+  </a>
+  <div class="desc">Durmitor, MNE
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/gloucester.JPG">
+    <img src="images/gloucester.jpg" alt="Gloucester" width="300" height="200">
+  </a>
+  <div class="desc">Gloucester, MA, USA
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/rothiemurchus.JPG">
+    <img src="images/rothiemurchus.jpg" alt="Rothiemurchus" width="300" height="200">
+  </a>
+  <div class="desc">Aviemore, Scotland
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/nberwick.JPG">
+    <img src="images/nberwick.jpg" alt="NBerwick" width="300" height="200">
+  </a>
+  <div class="desc">North Berwick, Scotland
+  </div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="images/botany.JPG">
+    <img src="images/botany.jpg" alt="Botany" width="300" height="200">
+  </a>
+  <div class="desc">Botany Bay, England
+  </div>
+</div>
+
+</html>

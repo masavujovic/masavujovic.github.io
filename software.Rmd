@@ -1,0 +1,22 @@
+---
+title: ""
+output:
+  html_document:
+    include:
+      after_body: "footer.html"
+---
+    
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+##### __Greater London primary school database__
+A webscraper to automatically extract primary school contact details from council website in the Greater London area. This database was used by myself and my colleagues at the Language Learning Lab to recruit primary schools for our research. Here is an example for the Borough of Hackney.
+
+##### __Manual soundfile transcription__
+A PsychoPy program for soundfile transcription. The program plays soundfiles, collects transcriber's transcription, and logs all the relevant information in a csv file. I wrote this program for the colleagues in my lab who used production tests to test participants' learning at the end of a language training session.
+
+##### __PsychoPy functions__
+A host of functions which I wrote over the years for building behavioural experiments in PsychoPy (Python), involving displaying movable pictures on-screen, collecting participants' input (typing, clicking, etc.), and so on.
+
+
+

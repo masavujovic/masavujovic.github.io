@@ -1,0 +1,30 @@
+name: "Masa Vujovic"
+title: Maša Vujović
+output_dir: '.'
+navbar:
+  title: Maša Vujović
+  left:
+  - text: Home
+    href: index.html
+  - text: Research
+    href: research.html
+  - text: Resources
+    menu:
+    - text: Software
+      href: software.html
+    - text: Tutorials
+      href: tutorials.html
+  - text: Relax :)
+    href: relaxation.html
+  right:
+  - icon: fa-envelope fa-lg
+    href: mailto:masa.vujovic.15@ucl.ac.uk
+  - icon: fa-github fa-lg
+    href: https://github.com/masavujovic
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/masavujovic/
+output:
+  html_document:
+    theme: paper
+    css: "styles.css"
+
