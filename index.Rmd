@@ -11,7 +11,7 @@ output:
 #### About me
 I research human learning and behaviour. I am experienced in hypothesis testing and experimental design, and I am well-versed in qualitative and quantitative data collection and analysis. Currently, I am a final year PhD student in [Language Learning Lab](http://languagelearninglab-ucl.com) at UCL, supervised by [Dr Liz Wonnacott](http://languagelearninglab-ucl.com/elizabeth-wonnacott). Before starting my PhD, I completed an MRes in Speech, Language and Cognition at UCL (2016), and an undergraduate degree in Psychology and Linguistics at the University of Edinburgh (2015). While at Edinburgh, I spent two summers working as a Research Assistant on a [project](https://www.forgetit-project.eu/en/partners/the-university-of-edinburgh/) investigating the match between human memory and how humans organise and store private digital content. I am originally from [Montenegro](https://masavujovic.github.io/relaxation.html), but I also lived in Slovenia, where I moved when I was 16 to complete the IB Diploma Programme. 
 
-On this website, you can check out my research resources ([code](https://masavujovic.github.io/software.html), [tutorials](https://masavujovic.github.io/tutorials.html)), and learn more about my [PhD project](https://masavujovic.github.io/research.html). 
+On this website, you can check out my research resources ([code](https://masavujovic.github.io/software.html), [tutorials](https://masavujovic.github.io/tutorials.html)), and learn more about my [research](https://masavujovic.github.io/research.html). 
 
 P.S. My name is pronounced "Masha"
 
