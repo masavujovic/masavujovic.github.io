@@ -8,10 +8,6 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<html>
-<title>Researc</title>
-</html>
-
 #### __PhD project__
 
 In my PhD, I study language learning as the process of statistical learning over the input data. Some of the central questions I address are: are language learners sensitive to the statistical properties of the input they receive? can learners use this information to make correct generalizations? what is the exact nature of the learning mechanism that underpins this process? To answer these questions, I generate predictions using computational modelling, and then test these predictions with human participants using [artificial language learning experiments](https://www.sciencedirect.com/science/article/pii/S1364661300014674?via%3Dihub). I often collect data on-line, and [here](https://gorilla.sc/spotlight/masavujovic) you can read an interview I gave to Gorilla, a platform for hosting on-line experiments, about my work.

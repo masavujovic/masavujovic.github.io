@@ -12,6 +12,6 @@ output:
 
 * [Quick introduction to online experiments with Gorilla](files/online_experiments_MasaVujovic.pdf), presented at the Early Career Researchers Meetings at UCL Department of Language and Cognition, February 2018
 
-* Coming up: An introduction to R and RStudio. R-workshop co-organised with [Dr Lee De Witt](https://www.ucl.ac.uk/pals/people/lee-de-wit) and [Dr Catriona Silvey](http://www.homepages.ucl.ac.uk/~ucjuca2/) for UCL Chandler House staff and students, October 2018
+* [Bayes Factors with Mixed-Effects Models in R](files/bayesfactors_MasaVujovic.pdf), presented at the [LiLaC Lab](http://www.lilac-lab.org/) Meeting, UCL, November 2018.
 
-* Coming up: Using Bayes Factors with Mixed-Effects Models. LiLaC lab meeting, November 2018
+* Coming up: An introduction to R and RStudio. R-workshop co-organised with [Dr Lee De Witt](https://www.ucl.ac.uk/pals/people/lee-de-wit) and [Dr Catriona Silvey](http://www.homepages.ucl.ac.uk/~ucjuca2/) for UCL Chandler House staff and students, October 2018
