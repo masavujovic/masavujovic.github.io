@@ -15,12 +15,9 @@ output:
 It is good scientific practice to plan your data analysis _before_ you start the actual data collection. Not only does this prevent practices such as p-hacking and data-tweaking, but it is also a valuable opportunity to think further about your hypotheses and the types of statistical methods that you can use to test those hypotheses. [Here](https://rpubs.com/MasaVujovic) you can read analyses plans for some of my experiments.
 
 ##### __Greater London primary school database__
-A webscraper to automatically extract primary school contact details from council website in the Greater London area. This database was used by myself and my colleagues at the Language Learning Lab to recruit primary schools for our research. Here is an example for the Borough of Hackney.
+A webscraper to automatically extract primary school contact details from council website in the Greater London area. This database was used by myself and my colleagues at the Language Learning Lab to recruit primary schools for our research. [Here](https://github.com/masavujovic/webscraper_schools) is an example for the Borough of Haringey.
 
 ##### __Manual soundfile transcription__
 A PsychoPy [program](https://github.com/masavujovic/transcribe) for soundfile transcription. The program plays soundfiles, collects transcriber's transcription, and logs all the relevant information in a csv file. I wrote this program for the colleagues in my lab who used production tests to test participants' learning at the end of a language training session, and needed a way to transcribe participants utterances efficiently.
-
-##### __Under construction: PsychoPy functions__
-I am working on creating a library which will bring togetehr a host of functions which I wrote over the years for building behavioural experiments in PsychoPy (Python), involving displaying movable pictures on-screen, collecting participants' input (typing, clicking, etc.), and so on.
 
 

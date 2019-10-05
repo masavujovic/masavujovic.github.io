@@ -11,7 +11,7 @@
 
 
 
-<title>Software</title>
+<title>software.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,7 +22,9 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -91,6 +93,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -245,11 +250,14 @@ $(document).ready(function () {
 <h5><strong>Data analyses</strong></h5>
 <p>It is good scientific practice to plan your data analysis <em>before</em> you start the actual data collection. Not only does this prevent practices such as p-hacking and data-tweaking, but it is also a valuable opportunity to think further about your hypotheses and the types of statistical methods that you can use to test those hypotheses. <a href="https://rpubs.com/MasaVujovic">Here</a> you can read analyses plans for some of my experiments.</p>
 </div>
+<div id="greater-london-primary-school-database" class="section level5">
+<h5><strong>Greater London primary school database</strong></h5>
+<p>A webscraper to automatically extract primary school contact details from council website in the Greater London area. This database was used by myself and my colleagues at the Language Learning Lab to recruit primary schools for our research. <a href="https://github.com/masavujovic/webscraper_schools">Here</a> is an example for the Borough of Haringey.</p>
+</div>
 <div id="manual-soundfile-transcription" class="section level5">
 <h5><strong>Manual soundfile transcription</strong></h5>
 <p>A PsychoPy <a href="https://github.com/masavujovic/transcribe">program</a> for soundfile transcription. The program plays soundfiles, collects transcriber’s transcription, and logs all the relevant information in a csv file. I wrote this program for the colleagues in my lab who used production tests to test participants’ learning at the end of a language training session, and needed a way to transcribe participants utterances efficiently.</p>
 </div>
-
 
 <center>
   <p>

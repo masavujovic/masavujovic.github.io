@@ -14,6 +14,7 @@ In my PhD, I study language learning as the process of statistical learning over
 
 ##### __Peer-reviewed conference talks and posters__
 
+* __Vujović, M.__, Ramscar, M., \& Wonnacott, E. (2019). Language learning as uncertainty reduction: the effects of prediction error and entropy on generalization and item-learning. [Talk](files/vujovic_uncertainty.pdf) presented at Interdisciplinary advances in Statistical Learning. San Sebastian, Spain.
 * __Vujović, M.__, Ramscar, M., \& Wonnacott, E. (2018). The role of prediction error in linguistic generalization and item-based learning. [Poster](files/vujovic_discriminationlearning.pdf) presented at:
     + Architectures and Mechanisms of Language Processing. Berlin, Germany.
     + Learning Language in Humans and Machines. Paris, France (also presented as a 2-minute highlight talk).
