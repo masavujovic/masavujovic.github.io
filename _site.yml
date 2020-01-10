@@ -6,14 +6,10 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: Research
-    href: research.html
+  - text: Publications
+    href: publications.html
   - text: Resources
-    menu:
-    - text: Software
-      href: software.html
-    - text: Tutorials
-      href: tutorials.html
+    href: resources.html
   - text: Relax :)
     href: relaxation.html
   right:
