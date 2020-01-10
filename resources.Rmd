@@ -1,0 +1,44 @@
+---
+title: ""
+output:
+  html_document:
+    include:
+      after_body: "footer.html"
+---
+    
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+##### __PhD research project: Language learning as discriminative uncertainty reduction__
+
+
+* __Computational modelling__: I model human language learning as a discriminative process of uncertainty reduction, using the Rescorla-Wagner learning rule. [Here](https://github.com/masavujovic/RescorlaWagner/blob/master/rw_classes.py) is an example simulation in which I implemented this in Python. The model was used to generate predictions about human learning, which I tested in a series of experiments (see below).
+
+* __Data collection__
+    + __Online experiment for adults__: [This](https://gorilladev.azurewebsites.net/articles/published/discrimination-learning-vujovic-2018) is the program I wrote in javascript using Gorilla, a platform for on-line behavioural data collection. I use this and variations of this experiment to collect a lot of data with adult learners for my [PhD project](https://masavujovic.github.io/research.html). Please contact me if you would like a copy of this program.
+    
+    + __Computer game for children__: In one of the [projects](https://languagelearninglabucl.files.wordpress.com/2018/07/wonnacott_japanese.pdf) I am involved with, we test predictions about discriminative learning in the context of second language learning. For that purpose, I developed a computerized training game for teaching 7-year-olds Japanese spatial constructions. This was done in PsychoPy, a Python library incorporating pygame. Watch this space for code!
+    
+    
+* __Data analysis__
+    + __Pre-registration of hypotheses__: It is good scientific practice to plan your data analysis _before_ you start the actual data collection. Not only does this prevent practices such as p-hacking and data-tweaking, but it is also a valuable opportunity to think further about your hypotheses and the types of statistical methods that you can use to test those hypotheses. [Here](https://rpubs.com/MasaVujovic) you can read analyses plans for some of my experiments.
+    
+    + __Statistical analysis__: [Here](https://osf.io/ybmnk/) you can find the code used to analyse data using mixed effects logistic models and Bayes Factors for [this publication](https://masavujovic.github.io/publications.htm).
+
+
+##### __Web-scraper for a Greater London primary school database__
+My colleagues at the Language Learning Lab do research with children in primary schools. To speed up the process of school recruitment, I built a webscraper to automatically extract primary school contact details from council website in the Greater London area. [Here](https://github.com/masavujovic/webscraper_schools) is an example for the Borough of Haringey.
+
+
+##### __Manual soundfile transcription__
+A PsychoPy [program](https://github.com/masavujovic/transcribe) for soundfile transcription. The program plays soundfiles, collects transcriber's transcription, and logs all the relevant information in a csv file. I wrote this program for the colleagues in my lab who used production tests to test participants' learning at the end of a language training session, and needed a way to transcribe participants utterances efficiently.
+
+
+##### __Research methods__
+As a graduate researcher at UCL, I delivered several invited talks, workshops and tutorials on a variety of topics in research methods.
+
+* [Bayes Factors with Mixed-Effects Models in R](files/bayesfactors_MasaVujovic.pdf), presented at the [LiLaC Lab](http://www.lilac-lab.org/) Meeting, UCL, November 2018
+
+* [Basic data handling and using R and R studio](files/RWorkshopPart1.pdf). Par 1 of a three-part R-workshop co-organised with [Dr Lee De Witt](https://www.ucl.ac.uk/pals/people/lee-de-wit) and [Dr Catriona Silvey](http://www.homepages.ucl.ac.uk/~ucjuca2/) for UCL Chandler House staff and students, November 2018
+
+* [Quick introduction to online experiments with Gorilla](files/online_experiments_MasaVujovic.pdf), presented at the Early Career Researchers Meetings at UCL Department of Language and Cognition, February 2018
+
