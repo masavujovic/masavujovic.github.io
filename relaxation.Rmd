@@ -7,7 +7,7 @@ title: ""
 This is a photo gallery of some beautiful places in countries that I am fortunate enough to be able to call home. Most are from Montenegro, but there are some from Scotland, England, and the US. All of these were taken by me. If you feel like your urban jungle is getting to you, this gallery might help.
 
 <center>
-###### &copy; 2018 Maša Vujović. All rights reserved.
+###### &copy; 2019 Maša Vujović. All rights reserved.
 </center>
 
 <html>
